@@ -115,7 +115,7 @@ export default function PortalAgrotekUPN() {
       </div>
 
       <footer style={{ textAlign: 'center', marginTop: '60px', opacity: 0.5, fontSize: '12px' }}>
-        © 2026 Mahasiswa Agroteknologi - UPN "Veteran" Jawa Timur
+        © 2026 Mahasiswa Agroteknologi - UPN "Veteran" Jawa Timur.
       </footer>
     </div>
   );
